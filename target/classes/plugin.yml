@@ -1,0 +1,28 @@
+name: SpreenCore
+version: 1.0-SNAPSHOT
+main: me.gatogamer.spreencore.SpreenCore
+description: "Basic core for Spreen's events."
+api-version: 1.17
+commands:
+  kickstick:
+  hackstick:
+  togglepvp:
+  togglechat:
+  toggletnt:
+  togglespleef:
+  toggleinteract:
+  rockola:
+  safetpall:
+  damagefallkills:
+  setbackplace:
+  gangnamstyle:
+  prohibit:
+  giveinventory:
+  randomchairs:
+  spreencore-reload:
+  teamselection:
+  reseteliminations:
+  loadscreen:
+  settpzone:
+  tptozonewitharmor:
+  cancelarmorstand:
