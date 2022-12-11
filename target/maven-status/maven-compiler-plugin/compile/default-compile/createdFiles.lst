@@ -2,9 +2,11 @@ me\gatogamer\spreencore\listeners\ChatListener.class
 me\gatogamer\spreencore\animations\gangnamstyle\Animation1$2.class
 me\gatogamer\spreencore\commands\HackStickCommand.class
 me\gatogamer\spreencore\listeners\DeathListener.class
+me\gatogamer\spreencore\commands\TimerCommand$1.class
 me\gatogamer\spreencore\listeners\DamageListener$3.class
 me\gatogamer\spreencore\listeners\BlockListener.class
 me\gatogamer\spreencore\commands\KickStickCommand.class
+me\gatogamer\spreencore\commands\TimerCommand.class
 me\gatogamer\spreencore\commands\GrefgCommand.class
 me\gatogamer\spreencore\commands\SetTpZoneCommand.class
 me\gatogamer\spreencore\tasks\FadeScreenTask.class

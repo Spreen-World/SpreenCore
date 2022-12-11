@@ -4,6 +4,7 @@ main: me.gatogamer.spreencore.SpreenCore
 description: "Basic core for Spreen's events."
 api-version: 1.17
 commands:
+  timer:
   kickstick:
   hackstick:
   togglepvp:
